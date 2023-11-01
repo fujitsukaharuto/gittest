@@ -16,9 +16,8 @@ int main()
 
     std::cout << "マージお願いします\n";
 
-    std::cout << "プル\n";
+    std::cout << "マージお願いします\n";
 
-    
 
 
 }
